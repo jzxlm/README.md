@@ -6,6 +6,6 @@
 
   <p align="center">
         <a href="https://longtao.fun">
-            <img src="cat.webp" width="50"/>
+            <img src="e4488c9b5ff3f1a2e18c1e637e4d0393.gif" width="50"/>
         </a>
     </p>
