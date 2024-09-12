@@ -3,3 +3,9 @@
 🤖 **欢迎来到我的 GitHub 仓库！** 🚀
 
 🌟 Welcome to my GitHub repository ！🌟
+
+  <p align="center">
+        <a href="https://longtao.fun">
+            <img src="cat.webp" width="50"/>
+        </a>
+    </p>
